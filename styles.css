@@ -1,0 +1,28 @@
+* {
+    flex: auto;
+}
+
+header {
+    background-color: aquamarine;
+    margin: auto
+}
+
+img {
+    resize: both;
+    background-color: rgb(227, 182, 20);
+    width: 100%
+}
+
+.intro {
+    border: solid;
+    background-color: rgb(29, 149, 149);
+}
+
+.info {
+    border: solid;
+    background-color: rgb(138, 199, 46);
+}
+
+a {
+    margin: 30px;
+}
